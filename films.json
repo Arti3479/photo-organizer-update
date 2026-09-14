@@ -1,0 +1,3277 @@
+{
+  "version": "2026-09-expanded-v1",
+  "films": [
+    {
+      "brand": "Kodak",
+      "name": "Gold 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Gold 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Gold 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "UltraMax 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "ColorPlus 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Pro Image 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Ektar 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 160",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 100T",
+      "iso": "100",
+      "type": "Color Negative Tungsten",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 400NC",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 400VC",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 160NC",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Portra 160VC",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome E100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome E100G",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome E100GX",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome E100VS",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome 64 / EPR",
+      "iso": "64",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome 100 Plus / EPP",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Ektachrome 160T / EPT",
+      "iso": "160",
+      "type": "Color Reversal Tungsten",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Kodachrome 25",
+      "iso": "25",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Kodachrome 64",
+      "iso": "64",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Kodachrome 200",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Tri-X 320 / 320TXP",
+      "iso": "320",
+      "type": "B&W Negative",
+      "formats": [
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "Tri-X 400 / 400TX",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "T-Max 100 / 100TMX",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "T-Max 400 / 400TMY",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak Professional",
+      "name": "T-Max P3200 / P3200TMZ",
+      "iso": "3200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Plus-X Pan",
+      "iso": "125",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Panatomic-X",
+      "iso": "32",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "Technical Pan",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "High Speed Infrared / HIE",
+      "iso": "80",
+      "type": "B&W Infrared",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kodak",
+      "name": "BW400CN",
+      "iso": "400",
+      "type": "Chromogenic B&W",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "FUJIFILM 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "FUJIFILM 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "FUJIFILM 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor C100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor C200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor 100 Industrial",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor 400 Industrial",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Superia 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Superia 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Superia X-TRA 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Superia X-TRA 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Superia Venus 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Superia 1600",
+      "iso": "1600",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Natura 1600",
+      "iso": "1600",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Reala 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Pro 160C",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Pro 160S",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor Pro 400H",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor NPC 160",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor NPS 160",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor NPH 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujicolor NPZ 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Velvia 50",
+      "iso": "50",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Velvia 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Velvia 100F",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Provia 100F",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Provia 400F",
+      "iso": "400",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Provia 400X",
+      "iso": "400",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Astia 100F",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Sensia 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Sensia 200",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Fujichrome Sensia 400",
+      "iso": "400",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Neopan 100 Acros",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Neopan 100 Acros II",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Neopan 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Fujifilm",
+      "name": "Neopan 1600",
+      "iso": "1600",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "PAN F PLUS",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "FP4 PLUS",
+      "iso": "125",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "HP5 PLUS",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "DELTA 100 PROFESSIONAL",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "DELTA 400 PROFESSIONAL",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "DELTA 3200 PROFESSIONAL",
+      "iso": "3200",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "XP2 SUPER",
+      "iso": "400",
+      "type": "Chromogenic B&W",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "SFX 200",
+      "iso": "200",
+      "type": "B&W Infrared-sensitive",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "ORTHO PLUS",
+      "iso": "80",
+      "type": "B&W Ortho",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "PAN 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "PAN 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "FP4",
+      "iso": "125",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "HP5",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ILFORD",
+      "name": "XP1",
+      "iso": "400",
+      "type": "Chromogenic B&W",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kentmere",
+      "name": "PAN 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kentmere",
+      "name": "PAN 200",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kentmere",
+      "name": "PAN 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "HARMAN",
+      "name": "Phoenix 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "HARMAN",
+      "name": "Phoenix II",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "HARMAN",
+      "name": "RED 125",
+      "iso": "125",
+      "type": "Redscale Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "CineStill",
+      "name": "50D",
+      "iso": "50",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "CineStill",
+      "name": "400D",
+      "iso": "400",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "CineStill",
+      "name": "800T",
+      "iso": "800",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "CineStill",
+      "name": "BwXX",
+      "iso": "250",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "CineStill",
+      "name": "XX",
+      "iso": "250",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Color Negative 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Color Negative 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Color Negative 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Purple",
+      "iso": "100-400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Turquoise",
+      "iso": "100-400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Metropolis",
+      "iso": "100-400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Color '92",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Color '92 Sun-kissed",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Classicolor",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Redscale XR",
+      "iso": "50-200",
+      "type": "Redscale Color Negative",
+      "formats": [
+        "135",
+        "120",
+        "110"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Berlin Kino",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Potsdam Kino",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Babylon Kino",
+      "iso": "13",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Fantôme Kino",
+      "iso": "8",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Lady Grey",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "Earl Grey",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "LomoChrome Purple Pétillant",
+      "iso": "100-400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "X-Pro Chrome 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "X-Pro Slide 200",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Lomography",
+      "name": "X-Pro Peacock",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "110"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMAPAN 100 Classic",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMAPAN 200 Creative",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMAPAN 400 Action",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "RETROPAN 320 soft",
+      "iso": "320",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMA Ortho 400",
+      "iso": "400",
+      "type": "B&W Ortho",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMAPAN R 100",
+      "iso": "100",
+      "type": "B&W Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMAPAN Cine 100",
+      "iso": "100",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMAPAN Cine 400",
+      "iso": "400",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "Foma",
+      "name": "FOMA Cine Ortho 400",
+      "iso": "400",
+      "type": "B&W Ortho Cine",
+      "formats": [
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "CHS 25",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "CHS 50",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "CHS 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "CHS 100 II",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "HR-50",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "CMS 20 II",
+      "iso": "20",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "SCALA 50",
+      "iso": "50",
+      "type": "B&W Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "SCALA 160",
+      "iso": "160",
+      "type": "B&W Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "SILVERMAX 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ADOX",
+      "name": "COLOR MISSION 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "UN54",
+      "iso": "100",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "135",
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "N74 Plus",
+      "iso": "400",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "135",
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NP15",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NP20",
+      "iso": "80",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NP22",
+      "iso": "125",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NP27",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "UT18",
+      "iso": "50",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "UT21",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NC19",
+      "iso": "64",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NC21",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NC3",
+      "iso": "80",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "NC500",
+      "iso": "500",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "Wolfen NC500",
+      "iso": "500",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ORWO",
+      "name": "Wolfen NP100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "RPX 25",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "RPX 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "RPX 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Retro 80S",
+      "iso": "80",
+      "type": "B&W Superpanchromatic",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Retro 400S",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Superpan 200",
+      "iso": "200",
+      "type": "B&W Superpanchromatic",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Ortho 25 Plus",
+      "iso": "25",
+      "type": "B&W Ortho",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Infrared 400",
+      "iso": "400",
+      "type": "B&W Infrared",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "ATP 1.1",
+      "iso": "32",
+      "type": "B&W Technical",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Blackbird",
+      "iso": "64",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Crossbird",
+      "iso": "200",
+      "type": "Color Reversal / Cross-process",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Nightbird",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Redbird",
+      "iso": "400",
+      "type": "Redscale Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Digibase CN 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Rollei",
+      "name": "Digibase CR 200",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "BERGGER",
+      "name": "Pancro 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Film Ferrania",
+      "name": "P30",
+      "iso": "80",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Ferrania",
+      "name": "P33",
+      "iso": "160",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Ferrania",
+      "name": "Solaris FG Plus 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Ferrania",
+      "name": "Solaris FG Plus 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Ferrania",
+      "name": "Solaris FG Plus 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Ferrania",
+      "name": "Solaris FG Plus 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Vista 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Vista 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Vista 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Vista 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Optima 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Optima 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Optima 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfacolor Portrait 160",
+      "iso": "160",
+      "type": "Color Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfachrome CT Precisa 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfachrome RSX II 50",
+      "iso": "50",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfachrome RSX II 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Agfachrome RSX II 200",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "APX 25",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "APX 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "APX 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Agfa",
+      "name": "Scala 200X",
+      "iso": "200",
+      "type": "B&W Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "AgfaPhoto",
+      "name": "APX 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "AgfaPhoto",
+      "name": "APX 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "AgfaPhoto",
+      "name": "Color 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "KB 25",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "KB 50",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "KB 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "R 25",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "120"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "R 50",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "120"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "R 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Efke",
+      "name": "IR 820",
+      "iso": "100",
+      "type": "B&W Infrared",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Lucky",
+      "name": "SHD 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Lucky",
+      "name": "SHD 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lucky",
+      "name": "Color 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Lucky",
+      "name": "Color 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Shanghai",
+      "name": "GP3 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "220",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Shanghai",
+      "name": "GP3 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "ERA",
+      "name": "ERA 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ERA",
+      "name": "ERA 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Svema",
+      "name": "Foto 32",
+      "iso": "32",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Svema",
+      "name": "Foto 64",
+      "iso": "64",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Svema",
+      "name": "Foto 125",
+      "iso": "125",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Svema",
+      "name": "Foto 200",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Svema",
+      "name": "Foto 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Svema",
+      "name": "Color 125",
+      "iso": "125",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Astrum",
+      "name": "Foto 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Astrum",
+      "name": "Foto 200",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Astrum",
+      "name": "Foto 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Tasma",
+      "name": "Type 17",
+      "iso": "400",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "135",
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "Tasma",
+      "name": "Type 42L",
+      "iso": "400",
+      "type": "B&W Negative Cine",
+      "formats": [
+        "135",
+        "35mm cine"
+      ]
+    },
+    {
+      "brand": "Japan Camera Hunter",
+      "name": "JCH StreetPan 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kosmo Foto",
+      "name": "Mono 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Kosmo Foto",
+      "name": "Agent Shadow 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Kosmo Foto",
+      "name": "Direktor",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Street Candy",
+      "name": "ATM 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Street Candy",
+      "name": "MTN 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "W",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "D",
+      "iso": "500",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "X",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "S",
+      "iso": "50",
+      "type": "B&W Sound Recording Film",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "Z",
+      "iso": "400",
+      "type": "B&W Infrared-sensitive",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "F",
+      "iso": "100",
+      "type": "B&W X-ray Film",
+      "formats": [
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "A",
+      "iso": "12",
+      "type": "B&W Leader Film",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Washi",
+      "name": "V",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "ECHO",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "KOLOR",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "600nm",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "460nm",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "VOLVOX",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "RASP",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "LAZER",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "PLEXUS",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "STREAK",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "TEXTURE",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "KOSMOS",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "TESLA 1",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "TESLA 2",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "NEBULA",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "PAPER",
+      "iso": "200",
+      "type": "B&W Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "SNOVLOX",
+      "iso": "200",
+      "type": "B&W Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Revolog",
+      "name": "TESLA BW",
+      "iso": "200",
+      "type": "B&W Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Apollo 200",
+      "iso": "200",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Apollo 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Bubblegum 200",
+      "iso": "200",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Bubblegum 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Pacific 200",
+      "iso": "200",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Pacific 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Jelly 200",
+      "iso": "200",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Jelly 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Solar 200",
+      "iso": "200",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Solar 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Stereo 200",
+      "iso": "200",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Stereo 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Treat 400",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "dubblefilm",
+      "name": "Glitch",
+      "iso": "200",
+      "type": "B&W Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SILBERSALZ35",
+      "name": "050D",
+      "iso": "50",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SILBERSALZ35",
+      "name": "125T",
+      "iso": "125",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SILBERSALZ35",
+      "name": "200T",
+      "iso": "200",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SILBERSALZ35",
+      "name": "250D",
+      "iso": "250",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SILBERSALZ35",
+      "name": "500T",
+      "iso": "500",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "FilmNeverDie",
+      "name": "IRO 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "FilmNeverDie",
+      "name": "Kuro 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "FilmNeverDie",
+      "name": "Sora 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "FilmNeverDie",
+      "name": "Umi 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Reflx Lab",
+      "name": "100D",
+      "iso": "100",
+      "type": "Color Reversal Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Reflx Lab",
+      "name": "250D",
+      "iso": "250",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Reflx Lab",
+      "name": "500T",
+      "iso": "500",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Reflx Lab",
+      "name": "800T",
+      "iso": "800",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Reflx Lab",
+      "name": "Pro 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Reflx Lab",
+      "name": "Pro 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "KONO!",
+      "name": "MONOLIT 3",
+      "iso": "3",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "KONO!",
+      "name": "MONOLIT 64",
+      "iso": "64",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "KONO!",
+      "name": "MOONSTRUCK",
+      "iso": "100",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "KONO!",
+      "name": "SUNSTROKE",
+      "iso": "100",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "KONO!",
+      "name": "DELIGHT ART 100",
+      "iso": "100",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "KONO!",
+      "name": "ROT WILD",
+      "iso": "400",
+      "type": "Color Negative Creative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SantaColor",
+      "name": "SantaColor 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "SantaColor",
+      "name": "Santa Rae 1000",
+      "iso": "1000",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Candido",
+      "name": "Candido 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Candido",
+      "name": "Candido 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Amber",
+      "name": "D100",
+      "iso": "100",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Amber",
+      "name": "T200",
+      "iso": "200",
+      "type": "Color Negative Cine Tungsten",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Amber",
+      "name": "D400",
+      "iso": "400",
+      "type": "Color Negative Cine",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Flic Film",
+      "name": "Aurora 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Flic Film",
+      "name": "Elektra 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Flic Film",
+      "name": "Chrome 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Flic Film",
+      "name": "Street Savvy 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Flic Film",
+      "name": "Ultrapan 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Flic Film",
+      "name": "Ultrapan 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Photography Project",
+      "name": "Derev Pan 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Photography Project",
+      "name": "Derev Pan 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Photography Project",
+      "name": "RetroChrome 400",
+      "iso": "400",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Photography Project",
+      "name": "Super Positive",
+      "iso": "0.8",
+      "type": "B&W Positive",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Photography Project",
+      "name": "Low ISO Color",
+      "iso": "1.6",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Film Photography Project",
+      "name": "Mummy 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "ReraPan",
+      "name": "ReraPan 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "127"
+      ]
+    },
+    {
+      "brand": "ReraChrome",
+      "name": "ReraChrome 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "127"
+      ]
+    },
+    {
+      "brand": "CatLABS",
+      "name": "X FILM 80",
+      "iso": "80",
+      "type": "B&W Negative",
+      "formats": [
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "CatLABS",
+      "name": "X FILM 320 Pro",
+      "iso": "320",
+      "type": "B&W Negative",
+      "formats": [
+        "120",
+        "Sheet"
+      ]
+    },
+    {
+      "brand": "Oriental",
+      "name": "New Seagull 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "U200",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "U400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "PAN 50",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "PAN 100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "PAN 160",
+      "iso": "160",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "PAN 200",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "PAN 400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "Orta 50",
+      "iso": "50",
+      "type": "B&W Ortho",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "S25",
+      "iso": "25",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "S50",
+      "iso": "50",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "S100",
+      "iso": "100",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "S160",
+      "iso": "160",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "S200",
+      "iso": "200",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Silberra",
+      "name": "S400",
+      "iso": "400",
+      "type": "B&W Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Centuria 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Centuria 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Centuria 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Centuria 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "VX 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "VX 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "VX 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Minolta Centuria Super 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Minolta Centuria Super 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Minolta Centuria Super 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Minolta Centuria Super 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Konica",
+      "name": "Infrared 750",
+      "iso": "32",
+      "type": "B&W Infrared",
+      "formats": [
+        "135",
+        "120"
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "name": "MX 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "name": "MX 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "name": "MX 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Mitsubishi",
+      "name": "MX 800",
+      "iso": "800",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Ferrania",
+      "name": "Chrome 100",
+      "iso": "100",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Ferrania",
+      "name": "Chrome 200",
+      "iso": "200",
+      "type": "Color Reversal",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Ferrania",
+      "name": "ScotchColor 100",
+      "iso": "100",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Ferrania",
+      "name": "ScotchColor 200",
+      "iso": "200",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    },
+    {
+      "brand": "Ferrania",
+      "name": "ScotchColor 400",
+      "iso": "400",
+      "type": "Color Negative",
+      "formats": [
+        "135"
+      ]
+    }
+  ]
+}
