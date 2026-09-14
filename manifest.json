@@ -5,21 +5,21 @@
     {
       "name": "cameras.json",
       "version": "2026.09.14",
-      "url": "https://raw.githubusercontent.com/YOUR_ID/YOUR_REPOSITORY/main/update/cameras.json",
+      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
       "size": 40932,
       "sha256": "6d637e488a576bf63811059396f98c9d69b326c5f1463c987221b912fb083d7a"
     },
     {
       "name": "films.json",
       "version": "2026.09.14",
-      "url": "https://raw.githubusercontent.com/YOUR_ID/YOUR_REPOSITORY/main/update/films.json",
+      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/cameras.json",
       "size": 58888,
       "sha256": "411b5338e268b9c00bf82d29cb61cbc90ee4978ea041b3d533b5e845bd3f463c"
     },
     {
       "name": "fixed_lens_cameras.json",
       "version": "2026.09.14",
-      "url": "https://raw.githubusercontent.com/YOUR_ID/YOUR_REPOSITORY/main/update/fixed_lens_cameras.json",
+      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/fixed_lens_cameras.json",
       "size": 21048,
       "sha256": "203809b3cb812450925e89662157a0d237a6da6b0ea18a19a248e82f7437c025"
     }
