@@ -5,14 +5,14 @@
     {
       "name": "cameras.json",
       "version": "2026.09.14",
-      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
+      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/cameras.json",
       "size": 40932,
       "sha256": "6d637e488a576bf63811059396f98c9d69b326c5f1463c987221b912fb083d7a"
     },
     {
       "name": "films.json",
       "version": "2026.09.14",
-      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/cameras.json",
+      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
       "size": 58888,
       "sha256": "411b5338e268b9c00bf82d29cb61cbc90ee4978ea041b3d533b5e845bd3f463c"
     },
