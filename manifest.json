@@ -1,17 +1,18 @@
 {
-  "update_id": "2026.09.15-app-test1",
+  "update_id": "2026.09.15-app-v1.3.1",
   "app_min_version": "1.2.0",
 
   "app": {
-  "version": "1.3.0",
-  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v1.3.0/PhotoOrganizer.exe",
-  "size": 31958267,
-  "sha256": "25197de8c373da900bab762182fce161ea38c71ff719dd64749d9c632732f998",
-  "changes": [
-    "프로그램 자체 자동 업데이트 기능 추가",
-    "updater.exe를 이용한 안전한 EXE 교체 및 자동 재실행"
-  ]
-},
+    "version": "1.3.1",
+    "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v1.3.1/PhotoOrganizer.exe",
+    "size": 31959490,
+    "sha256": "5877ff38e2cb78d9913a23172cbc97e2bcbbcf315134b5074b3d4998980ae40d",
+    "changes": [
+      "업데이트 후 남는 백업 및 임시 파일 자동 정리",
+      "updater 파일 삭제 재시도 기능 추가",
+      "프로그램 버전 표시 통일"
+    ]
+  },
 
   "files": [
     {
