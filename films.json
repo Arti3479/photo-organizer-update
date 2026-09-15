@@ -3271,6 +3271,15 @@
       "type": "Color Negative",
       "formats": [
         "135"
+            ]
+    },
+    {
+      "brand": "TEST",
+      "name": "Hot Update Test 100",
+      "iso": 100,
+      "type": "Color Negative",
+      "formats": [
+        "135"
       ]
     }
   ]
