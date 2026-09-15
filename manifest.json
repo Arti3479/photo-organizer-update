@@ -23,12 +23,12 @@
       "sha256": "f3243384fe64a02208a428511cc085545ae498ff0646fd311d6630d4acd80633"
     },
     {
-      "name": "films.json",
-      "version": "2026.09.14",
-      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
-      "size": 62164,
-      "sha256": "ed2e548efb28d235e1298401330d24626d4406252f47eb2e6322c2cb34dfbb95"
-    },
+  "name": "films.json",
+  "version": "2026.09.15-test1",
+  "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
+  "size": 62164,
+  "sha256": "ed2e548efb28d235e1298401330d24626d44406252f47eb2e6322c2cb34dfbb95"
+},
     {
       "name": "fixed_lens_cameras.json",
       "version": "2026.09.14",
