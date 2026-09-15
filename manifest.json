@@ -3,12 +3,12 @@
   "app_min_version": "1.2.0",
 
   "app": {
-  "version": "1.5.2",
-  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v1.5.2/PhotoOrganizer.exe",
-  "size": 31961900,
-  "sha256": "1d038837c0067c41f3e52a033ae6b530af838f6bb77bca0967bafd62e7eb46bd",
+  "version": "1.5.3",
+  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v1.5.3/PhotoOrganizer.exe",
+  "size": 31962454,
+  "sha256": "4ac5768a60cb608a737cbfc5feb3a9b6df1734c9c9ace54ac5a4bcb29828063c",
   "changes": [
-    "앱 업데이트 완료 후 자동 종료 및 자동 재실행",
+    "앱 업데이트 완료 후 자동 종료 및 자동 재실행 테스트",
     "DB 업데이트는 재시작 없이 즉시 반영"
   ]
 },
