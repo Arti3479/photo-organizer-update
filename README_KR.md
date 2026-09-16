@@ -201,4 +201,15 @@ tkinterdnd2
 PyInstaller
 Inno Setup
 
-© 2026 Arti3479
+## 라이선스
+
+Photo Organizer는 독점형 무료사용 소프트웨어(Proprietary Freeware)입니다.
+
+개인적·비상업적 용도로 무료로 사용할 수 있습니다.  
+저작권자의 사전 서면 허가 없이 재배포, 판매, 상업적 이용 및 수정본 배포를 할 수 없습니다.
+
+프로그램에 대한 저작권 및 지식재산권은 저작권자에게 있습니다.
+
+자세한 내용은 [LICENSE](LICENSE)를 확인해주세요.
+
+©2026 Arti3479
