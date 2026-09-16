@@ -252,5 +252,15 @@ Main technologies:
 - Inno Setup
 
 ---
+## License
+
+Photo Organizer is proprietary freeware.
+
+The software is free for personal, non-commercial use.  
+Redistribution, sale, commercial use, and distribution of modified versions are not permitted without prior written permission from the copyright holder.
+
+All copyrights and intellectual property rights remain with the copyright holder.
+
+See [LICENSE](LICENSE) for the full license terms.
 
 © 2026 Arti3479
