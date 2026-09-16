@@ -1,3 +1,4 @@
+**English** | [한국어](README_KR.md)
 # Photo Organizer
 
 Photo Organizer is a Windows photo management application that supports film photo metadata management, LUT application for digital photos, automatic folder organization, RAW matching, file timestamp management, duplicate file detection, and more.
