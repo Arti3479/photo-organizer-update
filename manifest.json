@@ -1,18 +1,21 @@
 {
-  "update_id": "2026.09.15-app-v1.5.3",
+  "update_id": "2026.09.17-app-v2.0.0",
   "app_min_version": "1.2.0",
-
   "app": {
-  "version": "1.5.3",
-  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v1.5.3/PhotoOrganizer.exe",
-  "size": 31962454,
-  "sha256": "4ac5768a60cb608a737cbfc5feb3a9b6df1734c9c9ace54ac5a4bcb29828063c",
-  "changes": [
-    "앱 업데이트 완료 후 자동 종료 및 자동 재실행 테스트",
-    "DB 업데이트는 재시작 없이 즉시 반영"
-  ]
-},
-
+    "version": "2.0.0",
+    "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer.exe",
+    "size": 34191248,
+    "sha256": "1577d414a8c1a4e11af4174b6a40c3de3d945dfc515ab817e108fdc3dd330487",
+    "changes": [
+      "Photo Organizer v2.0.0 정식 릴리스",
+      "필름 사진 메타데이터 및 촬영시간 관리 개선",
+      "디지털 사진 LUT 적용 및 출력 기능 추가",
+      "저장 및 다른 이름으로 저장 지원",
+      "폴더 연속 분류 및 파일 충돌 처리 개선",
+      "다국어 UI 및 사용성 개선",
+      "메모리 관리 및 프로그램 안정성 개선"
+    ]
+  },
   "files": [
     {
       "name": "cameras.json",
@@ -22,12 +25,12 @@
       "sha256": "f3243384fe64a02208a428511cc085545ae498ff0646fd311d6630d4acd80633"
     },
     {
-  "name": "films.json",
-  "version": "2026.09.15-test1",
-  "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
-  "size": 62345,
-  "sha256": "13f57c6516e52b044cef29b21866301e51b2b9fb2f6725e94dc9b391756d05f4"
-},
+      "name": "films.json",
+      "version": "2026.09.14",
+      "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
+      "size": 62164,
+      "sha256": "ed2e548efb28d235e1298401330d24626d4406252f47eb2e6322c2cb34dfbb95"
+    },
     {
       "name": "fixed_lens_cameras.json",
       "version": "2026.09.14",
