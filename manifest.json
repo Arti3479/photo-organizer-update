@@ -28,8 +28,8 @@
       "name": "films.json",
       "version": "2026.09.14",
       "url": "https://raw.githubusercontent.com/Arti3479/photo-organizer-update/main/films.json",
-      "size": 62164,
-      "sha256": "ed2e548efb28d235e1298401330d24626d4406252f47eb2e6322c2cb34dfbb95"
+      "size": 62345,
+      "sha256": "13f57c6516e52b044cef29b21866301e51b2b9fb2f6725e94dc9b391756d05f4"
     },
     {
       "name": "fixed_lens_cameras.json",
