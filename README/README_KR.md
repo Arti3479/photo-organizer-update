@@ -1,5 +1,5 @@
 # Photo Organizer
-Windows · [Eng](README.md) | **[Windows · [KR]]** | [macOS · [Eng]](README/README_mac.md) | [macOS · [KR]](README/README_mac_KR.md)
+[Windows · [Eng]](README.md) | **[Windows · [KR]]** | [macOS · [Eng]](README/README_mac.md) | [macOS · [KR]](README/README_mac_KR.md)
 
 Photo Organizer는 필름 사진 메타데이터 관리, 디지털 사진 LUT 적용, 폴더 자동 분류, RAW 매칭, 파일 시간 관리, 중복 파일 탐색 등을 지원하는 Windows용 사진 관리 프로그램입니다.
 
