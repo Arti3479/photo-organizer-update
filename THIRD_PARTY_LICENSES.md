@@ -1,4 +1,5 @@
 # Third-Party Licenses and Notices
+[Windows](THIRD_PARTY_LICENSES.md) · [macOS](THIRD_PARTY_LICENSES_mac.md)
 
 Photo Organizer includes or depends on third-party software.  
 Those components remain the property of their respective copyright holders and are governed by their own licenses.
