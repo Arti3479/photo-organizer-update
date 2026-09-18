@@ -1,4 +1,5 @@
 # Third-Party Licenses and Notices — macOS
+[Windows](THIRD_PARTY_LICENSES.md) · [macOS](THIRD_PARTY_LICENSES_mac.md)
 
 Photo Organizer for macOS includes or depends on third-party software and font components.
 
