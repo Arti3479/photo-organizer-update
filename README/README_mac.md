@@ -1,6 +1,6 @@
 # Photo Organizer — macOS
 
-[Windows · \[Eng\]](../README.md) | [Windows · \[KR\]](README_KR.md) | **macOS · [Eng]** | [macOS · \[KR\]](README_mac_KR.md)
+[Windows · \[Eng\]](../README.md) | [Windows · \[KR\]](README_KR.md) | [macOS · \[Eng\]](README_mac.md) | **macOS · [KR]**
 
 Photo Organizer is a desktop application for organizing film and digital photos, managing metadata and file times, applying LUTs, sorting folders, and performing utility tasks.
 
