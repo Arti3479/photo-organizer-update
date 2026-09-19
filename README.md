@@ -1,5 +1,5 @@
 # Photo Organizer
-**Windows · [Eng]** | [Windows · [KR]](README/README_KR.md) | [macOS · [Eng]](README/README_mac.md) | [macOS · [KR]](README/README_mac_KR.md)
+**Windows · [Eng]** | [Windows · \[KR\]](README/README_KR.md) | [macOS · \[Eng\]](README/README_mac.md) | [macOS · \[KR\]](README/README_mac_KR.md)
 
 Photo Organizer is a Windows photo management application that supports film photo metadata management, LUT application for digital photos, automatic folder organization, RAW matching, file timestamp management, duplicate file detection, and more.
 
