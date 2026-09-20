@@ -1,6 +1,7 @@
 {
   "update_id": "2026.09.20-app-v2.0.0-final",
   "app_min_version": "1.2.0",
+
   "app": {
     "version": "2.0.0",
     "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer_v2.0.0.exe",
@@ -21,6 +22,7 @@
       "업데이트 도우미를 프로그램에 내장하여 최초 실행 시 자동 복구되도록 개선"
     ]
   },
+
   "app_macos_arm64": {
     "version": "2.0.0",
     "arch": "arm64",
@@ -46,6 +48,7 @@
       "업데이트 시 SHA-256 무결성 검증 및 앱 자동 교체·재실행 지원"
     ]
   },
+
   "files": [
     {
       "name": "cameras.json",
