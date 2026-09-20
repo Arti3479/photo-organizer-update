@@ -1,19 +1,23 @@
 {
-  "update_id": "2026.09.17-app-v2.0.0",
+  "update_id": "2026.09.20-app-v2.0.0",
   "app_min_version": "1.2.0",
   "app": {
     "version": "2.0.0",
-    "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer.exe",
-    "size": 34191248,
-    "sha256": "1577d414a8c1a4e11af4174b6a40c3de3d945dfc515ab817e108fdc3dd330487",
+    "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer_v2.0.0.exe",
+    "size": 36225805,
+    "sha256": "7afbc4756e23af26fd9b673223b701437a7b726e47bd7c6ec36aefc4ed533404",
     "changes": [
       "Photo Organizer v2.0.0 정식 릴리스",
       "필름 사진 메타데이터 및 촬영시간 관리 개선",
-      "디지털 사진 LUT 적용 및 출력 기능 추가",
+      "필름·카메라 검색 및 선택 UI 가독성 개선",
+      "디지털 사진 LUT 적용·미리보기·강도 조절 및 출력 기능 개선",
       "저장 및 다른 이름으로 저장 지원",
       "폴더 연속 분류 및 파일 충돌 처리 개선",
-      "다국어 UI 및 사용성 개선",
-      "메모리 관리 및 프로그램 안정성 개선"
+      "프로그램 해상도와 UI 배율을 독립적으로 설정할 수 있도록 개선",
+      "QHD·4K 및 서로 다른 DPI의 멀티모니터 환경 대응 개선",
+      "창 위치와 화면 설정 저장 및 복원 안정화",
+      "다국어 UI 및 전반적인 사용성 개선",
+      "EXIF 읽기·LUT 미리보기·설정 처리 최적화 및 프로그램 안정성 개선"
     ]
   },
   "files": [
