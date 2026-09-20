@@ -9,7 +9,9 @@ This license applies to Photo Organizer, including its executable files, source 
 
 2. Free Personal Use
 
-You are granted a limited, revocable, non-exclusive, non-transferable license to download, install, and use Photo Organizer free of charge for personal, non-commercial purposes.
+You are granted a limited, revocable, non-exclusive, non-transferable license to download, run, and use Photo Organizer free of charge for personal, non-commercial purposes.
+
+You may make reasonable backup copies solely for your own personal use, provided that all copyright and license notices are preserved.
 
 No ownership or intellectual property rights are transferred to you.
 
@@ -29,7 +31,9 @@ To the extent permitted by applicable law, reverse engineering, decompilation, o
 
 4. Source Code Availability
 
-If source code is made publicly viewable, that availability does not make Photo Organizer open-source software and does not grant permission to copy, modify, redistribute, sublicense, or commercially exploit the source code except as expressly permitted by this license.
+If source code is made publicly viewable, that availability does not make Photo Organizer open-source software.
+
+Except for limited rights necessary to view the source code through the platform on which it is published, no permission is granted to copy, modify, redistribute, sublicense, publish, commercially exploit, or create derivative products from the source code unless expressly permitted by this license or by separate written permission from the copyright holder.
 
 5. Commercial Licensing
 
@@ -98,6 +102,7 @@ Korean Summary / 한국어 요약
 이 요약은 이해를 돕기 위한 설명이며, 영문 라이선스 본문과 충돌하는 경우 영문 본문을 기준으로 합니다.
 
 - Photo Organizer는 개인적·비상업적 용도로 무료 사용 가능합니다.
+- 개인 용도의 합리적인 백업본은 만들 수 있으며, 저작권 및 라이선스 고지는 그대로 유지해야 합니다.
 - 프로그램과 소스코드의 저작권 및 소유권은 저작권자에게 있습니다.
 - 사전 서면 허가 없이 재배포, 판매, 상업적 이용, 수정본 배포, 소스코드의 다른 제품 전용을 허용하지 않습니다.
 - 공개 저장소에서 소스코드를 볼 수 있다는 사실만으로 오픈소스 권리가 부여되는 것은 아닙니다.
