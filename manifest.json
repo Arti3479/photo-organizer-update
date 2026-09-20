@@ -1,11 +1,11 @@
 {
-  "update_id": "2026.09.20-app-v2.0.0",
+  "update_id": "2026.09.20-app-v2.0.0-final",
   "app_min_version": "1.2.0",
   "app": {
     "version": "2.0.0",
     "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer_v2.0.0.exe",
-    "size": 36225805,
-    "sha256": "7afbc4756e23af26fd9b673223b701437a7b726e47bd7c6ec36aefc4ed533404",
+    "size": 45118615,
+    "sha256": "070be69473cb142048e83c02db4d960d8a5d87bfd1c208c57e20088d77da79c9",
     "changes": [
       "Photo Organizer v2.0.0 정식 릴리스",
       "필름 사진 메타데이터 및 촬영시간 관리 개선",
@@ -17,7 +17,8 @@
       "QHD·4K 및 서로 다른 DPI의 멀티모니터 환경 대응 개선",
       "창 위치와 화면 설정 저장 및 복원 안정화",
       "다국어 UI 및 전반적인 사용성 개선",
-      "EXIF 읽기·LUT 미리보기·설정 처리 최적화 및 프로그램 안정성 개선"
+      "EXIF 읽기·LUT 미리보기·설정 처리 최적화 및 프로그램 안정성 개선",
+      "업데이트 도우미를 프로그램에 내장하여 최초 실행 시 자동 복구되도록 개선"
     ]
   },
   "files": [
