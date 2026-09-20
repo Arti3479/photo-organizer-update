@@ -24,30 +24,30 @@
   },
 
   "app_macos_arm64": {
-    "version": "2.0.0",
-    "arch": "arm64",
-    "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer_v2.0.0_macOS_arm64.dmg",
-    "size": 36293892,
-    "sha256": "c1e4956df78006c1a5b23157d755e671cc317d4bec9285815fff31adff1b59a1",
-    "changes": [
-      "Photo Organizer v2.0.0 macOS Apple Silicon 정식 릴리스",
-      "macOS Apple Silicon 환경 지원",
-      "필름 사진 메타데이터 및 촬영시간 관리 개선",
-      "필름·카메라 검색 및 선택 UI 가독성 개선",
-      "디지털 사진 LUT 적용·미리보기·강도 조절 및 출력 기능 개선",
-      "RAW 사진 LUT 처리 지원",
-      "저장 및 다른 이름으로 저장 지원",
-      "폴더 연속 분류 및 파일 충돌 처리 개선",
-      "프로그램 해상도와 UI 배율을 독립적으로 설정할 수 있도록 개선",
-      "외부 모니터 및 다양한 해상도 환경 대응 개선",
-      "창 위치와 화면 설정 저장 및 복원 안정화",
-      "Light·Dark·System 테마 지원",
-      "Finder 생성일 및 수정일 변경 지원",
-      "Application Support 기반 설정 및 데이터 관리",
-      "DMG 기반 자동 업데이트 지원",
-      "업데이트 시 SHA-256 무결성 검증 및 앱 자동 교체·재실행 지원"
-    ]
-  },
+  "version": "2.0.0",
+  "arch": "arm64",
+  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.0/PhotoOrganizer_v2.0.0_macOS_arm64.dmg",
+  "size": 36295383,
+  "sha256": "b98ff12442145708d66af0d638b70d55903527f43dbf3895e7305c9ad3d143d4",
+  "changes": [
+    "Photo Organizer v2.0.0 macOS Apple Silicon 정식 릴리스",
+    "macOS Apple Silicon 환경 지원",
+    "필름 사진 메타데이터 및 촬영시간 관리 개선",
+    "필름·카메라 검색 및 선택 UI 가독성 개선",
+    "디지털 사진 LUT 적용·미리보기·강도 조절 및 출력 기능 개선",
+    "RAW 사진 LUT 처리 지원",
+    "저장 및 다른 이름으로 저장 지원",
+    "폴더 연속 분류 및 파일 충돌 처리 개선",
+    "프로그램 해상도와 UI 배율을 독립적으로 설정할 수 있도록 개선",
+    "외부 모니터 및 다양한 해상도 환경 대응 개선",
+    "창 위치와 화면 설정 저장 및 복원 안정화",
+    "Light·Dark·System 테마 지원",
+    "Finder 생성일 및 수정일 변경 지원",
+    "Application Support 기반 설정 및 데이터 관리",
+    "DMG 기반 자동 업데이트 지원",
+    "업데이트 시 SHA-256 무결성 검증 및 앱 자동 교체·재실행 지원"
+  ]
+},
 
   "files": [
     {
