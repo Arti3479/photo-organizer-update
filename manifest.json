@@ -18,25 +18,25 @@
     ]
   },
   "app_macos_arm64": {
-    "version": "2.0.1",
-    "arch": "arm64",
-    "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.1/PhotoOrganizer_v2.0.1_macOS_arm64.dmg",
-    "size": 39714412,
-    "sha256": "64d18e0736109f7429dacd639158f7e38f943fee61dfc7b8cdbdfdc573abea21",
-    "package_kind": "macos_dmg",
-    "changes": [
-      "Photo Organizer v2.0.1 macOS Apple Silicon 정식 릴리스",
-      "사진 위치 기능 및 GPS 메타데이터 관리 개선",
-      "사진 위치 목록의 이름 오름차순 정렬 및 대량 로딩 성능 개선",
-      "필름·사진 위치 목록 가상화로 스크롤 잔상 및 렌더링 성능 개선",
-      "썸네일·GPS·파일 메타데이터 RAM 캐시 및 성능 설정 추가",
-      "사진 불러오기 진행창 표시 및 레이아웃 개선",
-      "macOS 트랙패드 및 마우스 스크롤 동작 개선",
-      "지도 확대·축소 및 위치 조회 기능 안정화",
-      "Light·Dark 테마 및 화면 배율 대응 개선",
-      "전반적인 안정성 및 UI 성능 개선"
-    ]
-  },
+  "version": "2.0.1",
+  "arch": "arm64",
+  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.1/PhotoOrganizer_v2.0.1_macOS_arm64.dmg",
+  "size": 40193506,
+  "sha256": "1875c877131d9bc93e23e61f76563251fa5ab3117c7970c5f8c003c9342c0daf",
+  "package_kind": "macos_dmg",
+  "changes": [
+    "Photo Organizer v2.0.1 macOS Apple Silicon 정식 릴리스",
+    "사진 위치 기능 및 GPS 메타데이터 관리 개선",
+    "사진 위치 목록의 이름 오름차순 정렬 및 대량 로딩 성능 개선",
+    "필름·사진 위치 목록 가상화로 스크롤 잔상 및 렌더링 성능 개선",
+    "썸네일·GPS·파일 메타데이터 RAM 캐시 및 성능 설정 추가",
+    "사진 불러오기 진행창 표시 및 레이아웃 개선",
+    "macOS 트랙패드 및 마우스 스크롤 동작 개선",
+    "지도 확대·축소 및 위치 조회 기능 안정화",
+    "Light·Dark 테마 및 화면 배율 대응 개선",
+    "전반적인 안정성 및 UI 성능 개선"
+  ]
+},
   "files": [
     {
       "name": "cameras.json",
