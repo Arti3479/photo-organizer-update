@@ -20,9 +20,9 @@
   "app_macos_arm64": {
   "version": "2.0.1",
   "arch": "arm64",
-  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.1/PhotoOrganizer_v2.0.1_macOS_arm64.dmg",
-  "size": 40193506,
-  "sha256": "1875c877131d9bc93e23e61f76563251fa5ab3117c7970c5f8c003c9342c0daf",
+  "url": "https://github.com/Arti3479/photo-organizer-update/releases/download/v2.0.1/PhotoOrganizer_v2.0.1_macOS_arm64_signed.dmg",
+"size": 40193506,
+"sha256": "1875c877131d9bc93e23e61f76563251fa5ab3117c7970c5f8c003c9342c0daf",
   "package_kind": "macos_dmg",
   "changes": [
     "Photo Organizer v2.0.1 macOS Apple Silicon 정식 릴리스",
